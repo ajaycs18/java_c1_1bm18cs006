@@ -63,3 +63,43 @@ class Main {
 			b.get();
 	}
 }
+
+// --------------Ouput------------------
+/*
+enter number of books: 
+2
+
+-----enter details of books-----
+
+enter name: 
+ajay
+enter author: 
+ajay
+enter price: 
+20
+enter number of pages: 
+566
+
+enter name: 
+john
+enter author: 
+doe
+enter price: 
+58
+enter number of pages: 
+300
+details of books: 
+
+
+name: ajay
+author: ajay
+price: 20.0
+number of pages: 566
+
+
+
+name: john
+author: doe
+price: 58.0
+number of pages: 300
+*/
