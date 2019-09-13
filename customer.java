@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Customer {
 	private int number, quantity;
 	private String name;
-	float price, total_price, discount, net_price;
+	private float price, total_price, discount, net_price;
 
 	Customer() {
 		
